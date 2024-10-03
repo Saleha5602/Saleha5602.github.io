@@ -1,34 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DATAMAN Calculator</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Welcome to the DATAMAN Calculator Project!</h1>
-        <p>Your go-to tool for data analysis.</p>
-    </header>
+# CountCraft Calculator
 
-    <section>
-        <h2>Features</h2>
-        <ul>
-            <li>Perform complex calculations easily.</li>
-            <li>User-friendly interface.</li>
-            <li>Supports multiple data formats.</li>
-        </ul>
-    </section>
+Welcome to **CountCraft**, a simple yet powerful calculator designed for easy calculations and effective learning. With support for basic arithmetic operations (+, -, *, /), CountCraft is equipped with several features to enhance your mathematical practice.
 
-    <section>
-        <h2>How to Use</h2>
-        <p>Simply input your data and choose the calculation you want to perform.</p>
-    </section>
+## Features
 
-    <footer>
-        <p>For more information, visit our <a href="https://github.com/yourusername/dataman-calculator">GitHub Repository</a>.</p>
-    </footer>
-</body>
-</html>
+### 1. Answer Checker
+- **Functionality**: Users can enter a full equation in the format `num1 operation num2 = answer` (e.g., `1 + 1 = 2`) and press the **Answer Checker** button.
+- **Feedback**: The calculator will verify the answer and allow the user three attempts to get it right.
+- **Outcome**: If the user answers correctly, they receive positive feedback. If not, they are prompted with the correct answer after three tries.
 
+### 2. Memory Bank
+- **Functionality**: Users can save equations to a **Memory Bank** for future practice.
+- **Process**: After solving an equation, the user can press the **Memory Bank** button to add the equation for later review.
+- **Outcome**: This allows users to build a personalized collection of equations they want to practice.
+
+### 3. GO Feature
+- **Functionality**: Works in conjunction with the Memory Bank, allowing users to practice saved equations.
+- **Process**: If the user has saved equations, they can press the **GO** button to randomly practice these equations.
+- **Outcome**: This feature encourages varied practice, helping reinforce learning.
+
+### 4. Login Feature
+- **Functionality**: Designed for teachers and parents with multiple students.
+- **Process**: Users can log in with their names to access their personalized accounts.
+- **Outcome**: Each student can keep track of their progress and add their own equations to the Memory Bank, allowing for individualized learning experiences.
+
+## How to Use CountCraft
+
+1. **Enter Your Equation**: Type your full equation in the format `num1 operation num2 = answer`.
+2. **Check Your Answer**: Click on the **Answer Checker** to see if your answer is correct. Remember, you have three attempts!
+3. **Save to Memory Bank**: After solving an equation, click the **Memory Bank** button to save it for later.
+4. **Practice with GO**: When you want to practice saved equations, click the **GO** button to begin.
+5. **Login for Progress Tracking**: If you are a teacher or parent, log in to manage multiple students and their progress.
+
+## Getting Started
+
+To get started with CountCraft, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/CountCraft.git
