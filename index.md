@@ -32,7 +32,4 @@ Welcome to **CountCraft**, a simple yet powerful calculator designed for easy ca
 4. **Practice with GO**: When you want to practice saved equations, click the **GO** button to begin.
 5. **Login for Progress Tracking**: If you are a teacher or parent, log in to manage multiple students and their progress.
 
-## Getting Started
-
-To get started with CountCraft, follow these steps:
 
