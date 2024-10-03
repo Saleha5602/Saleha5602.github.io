@@ -36,6 +36,3 @@ Welcome to **CountCraft**, a simple yet powerful calculator designed for easy ca
 
 To get started with CountCraft, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/CountCraft.git
