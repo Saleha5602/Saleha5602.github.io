@@ -2,6 +2,8 @@
 
 Welcome to **DataMan**, a simple yet powerful calculator designed for easy calculations and effective learning. With support for basic arithmetic operations (+, -, *, /), DataMan is equipped with several features to enhance your mathematical practice.
 
+<a href="https://saleha5602.github.io/world.html">Read the Creative Brief</a>
+
 ## Features
 
 ### 1. Answer Checker
