@@ -1,6 +1,6 @@
-# DataMan Calculator
+# CountCraft  Calculator
 
-Welcome to **DataMan**, a simple yet powerful calculator designed for easy calculations and effective learning. With support for basic arithmetic operations (+, -, *, /), DataMan is equipped with several features to enhance your mathematical practice.
+Welcome to **CountCraft**, a simple yet powerful calculator designed for easy calculations and effective learning. With support for basic arithmetic operations (+, -, *, /), CountCraft is equipped with several features to enhance your mathematical practice.
 
 <a href="https://saleha5602.github.io/world.html">Read the Creative Brief</a>
 
@@ -26,7 +26,7 @@ Welcome to **DataMan**, a simple yet powerful calculator designed for easy calcu
 - **Process**: Users can log in with their names to access their personalized accounts.
 - **Outcome**: Each student can keep track of their progress and add their own equations to the Memory Bank, allowing for individualized learning experiences.
 
-## How to Use DataMan
+## How to Use CountCraft
 
 1. **Enter Your Equation**: Type your full equation in the format `num1 operation num2 = answer`.
 2. **Check Your Answer**: Click on the **Answer Checker** to see if your answer is correct. Remember, you have three attempts!
