@@ -1,6 +1,5 @@
 <img src="calculator.webp" width="300">
 
-
 # Creative Brief: CountCraft Educational Calculator
 
 ## 1. Brand Overview
