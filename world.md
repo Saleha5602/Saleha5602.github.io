@@ -1,5 +1,5 @@
 <img src="calculator.webp" width="300">
-# Creative Brief: The People's Calculator
+
 
 # Creative Brief: CountCraft Educational Calculator
 
